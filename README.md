@@ -1,6 +1,5 @@
 # Improved Third Person Character
 
-# Introduction
 ### This project aims to improve the third-person unit controller. 
 
 #### But why leave the project public? 
